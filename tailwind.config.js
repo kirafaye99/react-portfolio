@@ -1,5 +1,5 @@
 module.exports = {
-  purge: [],
+  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
@@ -9,6 +9,9 @@ module.exports = {
   },
   plugins: [
     require('@headlessui/react'),
-    require('@heroicons/react')
+    require('@heroicons/react'),
+    require('@tailwindcss/aspect-ratio'),
+    require('@tailwindcss/typography'),
+    require('@tailwindcss/forms'),
   ],
 }
