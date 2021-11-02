@@ -23,7 +23,7 @@ import "tailwindcss/tailwind.css"
 // }
 
 const App = () => {
-  return (
+    return (
     <div className="App">
         <NavBar />
         <Switch>

@@ -11,10 +11,8 @@ export default function Portfolio() {
         <div class="container px-5 py-24 mx-auto">
           <div class="flex flex-col">
             <div class="h-1 overflow-hidden">
-              {/* <div class="w-24 h-full bg-purple-500"></div> */}
             </div>
             <div class="flex flex-wrap sm:flex-row flex-col py-6 mb-12">
-              {/* <h1 class="sm:w-2/5 text-gray-900 font-medium title-font text-2xl mb-2 sm:mb-0" id="projects">Projects</h1> */}
             </div>
           </div>
           <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
@@ -24,7 +22,7 @@ export default function Portfolio() {
               </div>
               <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Find Your Forever Friend</h2>
               <p class="text-base leading-relaxed mt-2">Pet adoption finder site created using HTML, CSS, Tailwind CSS, Petfinder API, OpenWeather API, Google Maps API, and JavaScript.</p>
-              <a href="https://github.com/MSaideman/find-your-forever-friend" target="_blank" rel="noopener noreferrer" class="text-purple-500 inline-flex items-center mt-3">Learn More
+              <a href="https://github.com/MSaideman/find-your-forever-friend" target="_blank" rel="noopener noreferrer" class="text-teal-500 inline-flex items-center mt-3">Learn More
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
@@ -36,7 +34,7 @@ export default function Portfolio() {
               </div>
               <h2 class="text-xl font-medium title-font text-gray-900 mt-5">JavaScript Quiz</h2>
               <p class="text-base leading-relaxed mt-2">Quiz to test JavaScript knowledge created using HTML, CSS, and JavaScript.</p>
-              <a href="https://github.com/kirafaye99/JavaScript-Quiz" target="_blank" rel="noopener noreferrer" class="text-purple-500 inline-flex items-center mt-3">Learn More
+              <a href="https://github.com/kirafaye99/JavaScript-Quiz" target="_blank" rel="noopener noreferrer" class="text-teal-500 inline-flex items-center mt-3">Learn More
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
@@ -48,7 +46,7 @@ export default function Portfolio() {
               </div>
               <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Work Day Scheduler</h2>
               <p class="text-base leading-relaxed mt-2">Scheduler designed to plan out work day hours created using HTML, CSS, and JavaScript.</p>
-              <a href="https://github.com/kirafaye99/Work-Day-Scheduler" target="_blank" rel="noopener noreferrer" class="text-purple-500 inline-flex items-center mt-3">Learn More
+              <a href="https://github.com/kirafaye99/Work-Day-Scheduler" target="_blank" rel="noopener noreferrer" class="text-teal-500 inline-flex items-center mt-3">Learn More
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
@@ -60,7 +58,7 @@ export default function Portfolio() {
               </div>
               <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Team Profile Generator</h2>
               <p class="text-base leading-relaxed mt-2">Node.js application to develop a site to organize inputted team members created using JavaScript, Tailwind CSS, and HTML.</p>
-              <a href="https://github.com/kirafaye99/Team-Profile-Generator" target="_blank" rel="noopener noreferrer" class="text-purple-500 inline-flex items-center mt-3">Learn More
+              <a href="https://github.com/kirafaye99/Team-Profile-Generator" target="_blank" rel="noopener noreferrer" class="text-teal-500 inline-flex items-center mt-3">Learn More
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
@@ -72,7 +70,7 @@ export default function Portfolio() {
               </div>
               <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Geek Emporium</h2>
               <p class="text-base leading-relaxed mt-2">Website designed to buy and sell collectibles created using Node.js, MySQL, JavaScript, Handlebars, and Tailwind CSS.</p>
-              <a href="https://github.com/xBOBOYx/Project-2" target="_blank" rel="noopener noreferrer" class="text-purple-500 inline-flex items-center mt-3">Learn More
+              <a href="https://github.com/xBOBOYx/Project-2" target="_blank" rel="noopener noreferrer" class="text-teal-500 inline-flex items-center mt-3">Learn More
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
