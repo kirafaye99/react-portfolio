@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.81bc9aa8.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.22d718eb.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.22d718eb.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.7530632e.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7530632e.js.map",
+    "static/css/2.637f5471.chunk.css": "/react-portfolio/static/css/2.637f5471.chunk.css",
+    "static/js/2.e7738d91.chunk.js": "/react-portfolio/static/js/2.e7738d91.chunk.js",
+    "static/js/2.e7738d91.chunk.js.map": "/react-portfolio/static/js/2.e7738d91.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.637f5471.chunk.css.map": "/react-portfolio/static/css/2.637f5471.chunk.css.map",
+    "static/css/main.81bc9aa8.chunk.css.map": "/react-portfolio/static/css/main.81bc9aa8.chunk.css.map",
+    "static/js/2.e7738d91.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.e7738d91.chunk.js.LICENSE.txt",
+    "static/media/Kira DeMarco Coding Resume.6623880a.pdf": "/react-portfolio/static/media/Kira DeMarco Coding Resume.6623880a.pdf",
+    "static/media/coding-resume.9f004883.PNG": "/react-portfolio/static/media/coding-resume.9f004883.PNG",
+    "static/media/fyff.62a70c50.PNG": "/react-portfolio/static/media/fyff.62a70c50.PNG",
+    "static/media/geek-emporium.c270ee86.PNG": "/react-portfolio/static/media/geek-emporium.c270ee86.PNG",
+    "static/media/headshot.5d4c221b.jpg": "/react-portfolio/static/media/headshot.5d4c221b.jpg",
+    "static/media/javascript quiz home.518a15de.PNG": "/react-portfolio/static/media/javascript quiz home.518a15de.PNG",
+    "static/media/team-profile-generater.4da287c6.PNG": "/react-portfolio/static/media/team-profile-generater.4da287c6.PNG",
+    "static/media/wd schedule.d2053a20.PNG": "/react-portfolio/static/media/wd schedule.d2053a20.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7530632e.js",
+    "static/css/2.637f5471.chunk.css",
+    "static/js/2.e7738d91.chunk.js",
+    "static/css/main.81bc9aa8.chunk.css",
+    "static/js/main.22d718eb.chunk.js"
+  ]
+}
